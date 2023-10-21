@@ -6,22 +6,8 @@
 
   <h3 align="center">Bill Checker</h3>
 
-  <p align="center">
-    This is a flutter project to manage the amount paid by participants of an event and also update their status of collecting goodies in realtime.
-    <br/>
-    <br/>
-    <a href="https://github.com/Abhigyan103/Bill-Checker"><strong>Explore the docs »</strong></a>
-    <br/>
-    <br/>
-    <a href="https://github.com/Abhigyan103/Bill-Checker">View Demo</a>
-    .
-    <a href="https://github.com/Abhigyan103/Bill-Checker/issues">Report Bug</a>
-    .
-    <a href="https://github.com/Abhigyan103/Bill-Checker/issues">Request Feature</a>
-  </p>
-</p>
-
-
+## Live public Version
+ [Click Here](https://abhigyan103.github.io/sristi-bill-checker/)
 
 ## About The Project
 <div style="display:flex"><img src="assets/readme1.png" alt="Logo" width="300">
