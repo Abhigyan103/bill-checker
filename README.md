@@ -1,7 +1,7 @@
 <br/>
 <p align="center">
   <a href="https://abhigyan103.github.io/sristi-bill-checker/">
-    <img src="https://logos-world.net/wp-content/uploads/2020/12/Hogwarts-Emblem.png" alt="Logo" width="80" height="80">
+    <img src="https://logos-world.net/wp-content/uploads/2020/12/Hogwarts-Emblem.png" alt="Logo" height="80">
   </a>
 
   <h3 align="center">Bill Checker</h3>
